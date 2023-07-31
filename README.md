@@ -1,5 +1,5 @@
 # Ingestão de dados, via site Vivareal
-
+  
 # Objetivo
   Obter informações de anúncios de imóveis para alugar em capitais dos estados brasileiros e apresetar indicadores referente ao assunto via Power BI.
 
